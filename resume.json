@@ -1,0 +1,69 @@
+{
+  "name": "Truong M. Nguyen",
+  "email": "constantx@gmail.com",
+  "phoneNumber": "(415) 404-9954",
+  "bio": "Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.",
+  "location": {
+    "city": "1",
+    "countryCode": "",
+    "state": "1"
+  },
+  "work": [
+    {
+      "startDate": "",
+      "endDate": "",
+      "position": "",
+      "name": "",
+      "website": "",
+      "description": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "name": "",
+      "studyType": "",
+      "area": "",
+      "startDate": "",
+      "endDate": "",
+      "courses": [
+        "",
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "name": "",
+      "date": "",
+      "awarder": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": ""
+    }
+  ],
+  "profiles": {
+    "github": "1",
+    "twitter": ""
+  },
+  "skills": [
+    "product",
+    "design",
+    "css",
+    "front-end"
+  ],
+  "hobbies": [
+    ""
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ]
+}
